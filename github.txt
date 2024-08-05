@@ -1,0 +1,9 @@
+1- git --version ===> know our current git version.
+2- git init ====> create new local repo.
+3- git status ===> show the current changes in our working tree.
+4- git add <file> ===> make the file be ready to committed.
+5- git commit -m "our message" ===> move our changed file from stagging to the repo.
+6- git branch ===> get our current branch name.
+7- git checkout <branch name> ===> switch to specific branch.
+8- git checkout -b <branch name> ===> create then switch to specific branch.
+9- git clone <repo url> ===> used for clonning the repo source code.
